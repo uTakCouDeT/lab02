@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Zabudli ste odstrániť používanie menného priestoru std;
+// Забыл удалть using namespace std;
 
 int main(){
    char* name = "";
