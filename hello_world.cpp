@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Zabudli ste odstrániť používanie menného priestoru std;
+// Zabudli ste odstrániť používanie menného priestoru std...
 
 int main(){
    char* name = "";
