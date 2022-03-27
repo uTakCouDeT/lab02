@@ -1,11 +1,11 @@
 #include <iostream>
 
-using namespace std;
+// Забыл удалть using namespace std;
 
 int main(){
    char* name = "";
-   cout << "Your name is: ";
-   cin >> name;
-   cout << "Hello world from" << name << endl;
+   std::cout << "Your name is: ";
+   std::cin >> name;
+   std::cout << "Hello world from" << name;
    return 0;
 }
