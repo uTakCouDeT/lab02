@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+// Забыл удалть using namespace std;
 
 int main(){
    char* name = "";
